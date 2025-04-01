@@ -1,0 +1,15 @@
+../Core/Src/main.c:104:9:calcularCRC	2
+../Core/Src/main.c:114:8:serializarPaquete	5
+../Core/Src/main.c:134:6:EnviarPaquete	1
+../Core/Src/main.c:198:9:ObtenerRPM	2
+../Core/Src/main.c:233:6:CDC_ReceiveCallBack	1
+../Core/Src/main.c:246:5:main	3
+../Core/Src/main.c:386:6:SystemClock_Config	3
+../Core/Src/main.c:432:13:MX_ADC1_Init	3
+../Core/Src/main.c:484:13:MX_I2C1_Init	2
+../Core/Src/main.c:518:13:MX_TIM2_Init	3
+../Core/Src/main.c:567:13:MX_TIM3_Init	4
+../Core/Src/main.c:612:13:MX_TIM5_Init	4
+../Core/Src/main.c:657:13:MX_GPIO_Init	1
+../Core/Src/main.c:695:6:HAL_TIM_PeriodElapsedCallback	1
+../Core/Src/main.c:713:6:Error_Handler	1
