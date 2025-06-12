@@ -1,0 +1,2 @@
+../Core/Src/mms_odometria.c:8:6:odo_init_reset	1
+../Core/Src/mms_odometria.c:31:6:actualizar_odometria	1

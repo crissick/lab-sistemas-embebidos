@@ -1,0 +1,3 @@
+../Core/Src/ADC_IR_SENSOR.c:25:6:CONVERTER_INIT	20	static
+../Core/Src/ADC_IR_SENSOR.c:36:6:ReadAndAverageSensors	56	static
+../Core/Src/ADC_IR_SENSOR.c:61:21:CONV_Y_TRANS	24	static

@@ -1,0 +1,15 @@
+../Core/Src/main.c:244:9:calcularCRC	8	static
+../Core/Src/main.c:256:8:serializarPaquete	24	static
+../Core/Src/main.c:278:6:EnviarPaquete	24	static
+../Core/Src/main.c:295:6:ReciboPaquete	0	static
+../Core/Src/main.c:456:7:trapecio_VD_simple	0	static
+../Core/Src/main.c:497:9:fragmentacion	16	static
+../Core/Src/main.c:518:10:VSPEED_QT	0	static
+../Core/Src/main.c:525:9:Pwm_By_Speed	8	static
+../Core/Src/main.c:551:9:Pwm_By_Speed_normal	8	static
+../Core/Src/main.c:970:6:SystemClock_Config	88	static,ignoring_inline_asm
+../Core/Src/main.c:607:5:main	104	static,ignoring_inline_asm
+../Core/Src/main.c:1519:6:HAL_ADC_ConvCpltCallback	0	static
+../Core/Src/main.c:1524:6:HAL_TIM_PeriodElapsedCallback	0	static
+../Core/Src/main.c:1544:6:CDC_ReceiveCallBack	8	static
+../Core/Src/main.c:1555:6:Error_Handler	0	static,ignoring_inline_asm
